@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>vibernotifications</name>
+	<displayName><![CDATA[Viber Notifications]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[The module helps to receive notifications about different events: new orders, registrations, returns, out of stock items.]]></description>
+	<author><![CDATA[PSWeb]]></author>
+	<tab><![CDATA[emailing]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
